@@ -1,0 +1,6 @@
+openai>=0.6.0
+requests>=2.25.1
+python-dotenv>=0.15.0
+rich>=10.0.0
+keyboard>=0.13.5
+# if some lib missing, add it manualy
